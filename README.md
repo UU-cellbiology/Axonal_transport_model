@@ -11,14 +11,11 @@ LF Gumy, EA Katrukha, LC Kapitein, CC Hoogenraad <a href="http://onlinelibrary.w
 
 It consists of two files, first is to find how average probability density function (PDF) changes over time:  
 <b>part1_average_PDF.nb</b>   
-<img src="http://katpyxa.info/software/Axonal_transport_model/part1_ill.gif">    
+<img src="http://katpyxa.info/software/Axonal_transport_model/part1_ill.gif"> <img src="http://katpyxa.info/software/Axon_transport_logo.png">  
 
 The second part simulates stochastic individual cargo movements:   
 <b>part2_stochastic_MonteCarlo.nb</b>  
-<img src="http://katpyxa.info/software/Axonal_transport_model/part2_stochastic_MonteCarlo.png">  
-   
-     
-<img src="http://katpyxa.info/software/Axonal_transport_model/multiple_partice_diffusion.gif">
+<img src="http://katpyxa.info/software/Axonal_transport_model/part2_stochastic_MonteCarlo.png"> <img src="http://katpyxa.info/software/Axonal_transport_model/multiple_partice_diffusion.gif">
 
 
 Developed in <a href='http://cellbiology.science.uu.nl/'>Cell Biology group</a> of Utrecht University.  
